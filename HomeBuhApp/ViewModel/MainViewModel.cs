@@ -85,7 +85,7 @@ namespace HomeBuhApp.ViewModel
                                         continue;
                                     }
                                 }
-
+                                // test
                                 paymentDb.Product = productDb;
                                 paymentDb.Date = payment.Date;
                                 paymentDb.PaymentType = PaymentType.Credit;
